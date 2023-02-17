@@ -1,0 +1,32 @@
+{
+  "name": "notice_board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikash12tri/Notice_Board.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikash12tri/Notice_Board/issues"
+  },
+  "homepage": "https://github.com/bikash12tri/Notice_Board#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "moment": "^2.29.4",
+    "mongoose": "^6.9.1",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.20",
+    "otp-generator": "^4.0.1",
+    "validator": "^13.9.0"
+  }
+}
